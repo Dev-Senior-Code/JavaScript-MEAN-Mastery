@@ -6,7 +6,7 @@ El objetivo es formar desarrolladores con un dominio integral del **stack MEAN (
 
 
 
-## 📚 Contenido del Programa
+##  Contenido del Programa
 
 ### [Módulo 1: Fundamentos del Desarrollo Web y JavaScript (Meses 1 y 2)](./Modulo1/README.md)
 

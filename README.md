@@ -13,12 +13,15 @@ El objetivo es formar desarrolladores con un dominio integral del **stack MEAN (
 **Objetivo:**  
 Dominar los **fundamentos de JavaScript, HTML y CSS**, y sentar las bases del desarrollo web.  
 
+### [Módulo 2: Backend MEAN Developer: APIs & Data Engineering (Meses 2 y 3)](./Módulo-02/Tutoria-01//README.md)
 
+**Objetivo:**  
+Construir **APIs RESTful básicas con Node.js y Express**. 
 
 ##  Próximos Módulos
 Cada módulo estará organizado en carpetas individuales con su propio `README.md` y materiales específicos.  
 
-- **Módulo 2:** (Próximamente)  
+
 - **Módulo 3:** (Próximamente)  
 - **Módulo 4:** (Próximamente)  
 
